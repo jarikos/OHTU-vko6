@@ -15,7 +15,10 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
        
+=======
+>>>>>>> haara
         System.out.println("Hello World");
     }
 }
