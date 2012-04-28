@@ -4,3 +4,5 @@
 *.jar
 *.war
 *.ear
+/HelloWorld/nbproject/private/
+/HelloWorld/build/
